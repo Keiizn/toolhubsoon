@@ -412,7 +412,7 @@
             //////////////////////COUNTDOWN
             ///////////////////////////////
         }), i(".countdown").countdown({
-            date: "10 May 2021 20:00:00",
+            date: "20 May 2021 20:00:00",
             format: "on"
         }), i(".slow-redirect a[href^='#']").click(function(e) {
             e.preventDefault();
